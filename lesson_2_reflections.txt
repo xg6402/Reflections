@@ -4,3 +4,14 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
     Staging area is where git ready to commit changes, that's where the code is stable or belong to one group.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+    Branches make major addition/change to existing code much organized, while changing, it won't impact what's
+    been working. And managing code become easier and clear.
+    Keep master in a production ready mode always.
+
+How do the diagrams help you visualize the branch structure?
+
+    diagram make branches and history commit very clear. Can trace back to where branches happened.
+
