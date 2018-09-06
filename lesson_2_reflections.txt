@@ -15,3 +15,6 @@ How do the diagrams help you visualize the branch structure?
 
     diagram make branches and history commit very clear. Can trace back to where branches happened.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+    Auto merge means there is no conflict or undecided code, but it could be untrue?
